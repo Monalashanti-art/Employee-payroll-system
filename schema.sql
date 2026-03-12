@@ -22,3 +22,10 @@ CREATE TABLE all_hired ( employee_id INT PRIMARY KEY AUTO_INCREMENT,
 
 CREATE TABLE deleted_employees
 LIKE all_hired;
+
+CREATE TABLE department_report (
+department VARCHAR(50),
+total_salary DECIMAL (5.2),
+avg_salary DECIMAL (5,2),
+employee_count Int,
+report_date DATETIME);
