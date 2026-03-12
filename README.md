@@ -59,4 +59,4 @@ FROM all_hired;
 
 Author
 - Mona Matlawe
-  Aspiring Data Engineer | SQL | Data Analytics
+-  Aspiring Data Engineer | SQL | Data Analytics
